@@ -1,0 +1,7 @@
+<h3 style="text-align:center">Team Members: Yunyue Yu, Jingjing Peng, Peng Yu, and Heshun Wang</h3>
+<br>
+<h2> Background </h2>
+<p> Surface albedo is one of the most important parameters characterizing the earth's radiative regime and its impact on biospheric and climatic processes. Albedo specifies the fraction of incident solar radiation that is reflected at the Earth’s surface. It is a critical parameter for accurate climate and energy balance studies. The spatial and temporal distribution of surface properties captured by albedo features reflect a variety of natural and human influences on the surface that are of interest to global climate research. The albedo of a given land cover type can change quickly through processes such as deforestation, soil moisture change, agricultural expansion, harvesting, flooding, and snow melting. These changes result in a modification of the hydrological and thermal state of the surface on local to regional scale. On a long-term scale, they might result in severe drought periods as for the Sahel-region or reductions in precipitation. </p>
+
+<p> We provide blue-sky albedo which refers to albedo under natural solar illumination composed of both direct and diffuse radiation based on atmospheric and solar-view-geometry conditions. VIIRS surface albedo product provides daily mean blue-sky albedo, while GOESR albedo product contains instantaneous blue-sky albedo at the overpass time. </p>
+<br>
